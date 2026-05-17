@@ -1,0 +1,24 @@
+# Datasets — prea mari pentru GitHub
+data/
+
+# Checkpoint vechi
+saved_model_fast/heads_only.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Word temp files
+~$*.docx
+
+# OS
+.DS_Store
+Thumbs.db

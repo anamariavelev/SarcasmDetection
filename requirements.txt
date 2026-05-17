@@ -1,0 +1,13 @@
+streamlit>=1.35
+plotly>=5.0
+
+torch
+transformers
+tokenizers
+sentencepiece
+
+pandas
+numpy
+scikit-learn
+tqdm
+emoji
